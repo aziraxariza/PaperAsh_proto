@@ -1,0 +1,1 @@
+ALTER TABLE `comments` ADD `approved` int DEFAULT 0 NOT NULL;
